@@ -1,5 +1,6 @@
 {
-  "version": "1.9.0.0",
-  "size": 133381120,
-  "sha256": "460dc2b35c4af4a12d54c5967e106c708880c45cffb894867f6ec14c8b67295a"
+  "version": "1.9.1.0",
+  "size": 133384704,
+  "sha256": "95cd1d20f23641e01e79f46366c5898c47120bc84402ea456bd961cefc7c2bfb",
+  "url": "https://github.com/vadimstyr/IBF-NodeRED-Updates/releases/download/v1.9.1.0/IBF-NodeRED-Werkzeug.exe"
 }
